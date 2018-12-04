@@ -26,4 +26,3 @@ This will run the skeletonMapping method, where the parameter corresponds to the
 ## Author
 
 * **Zhaonan Li** - (https://github.com/LIZHAONAN)
-
