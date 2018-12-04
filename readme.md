@@ -13,12 +13,15 @@ linearize("Test_pos.csv");
 
 This will run the linearize method, where the parameter corresponds to the file name. This method takes the position information stored in the CSV file and generates a track-number corresponding to every position.
 
+![alt text](https://github.com/LIZHAONAN/NeuroLab/blob/master/tracknum.jpeg)
+
 ```
 skeletonMapping("Test_pos.csv");
 ```
 
 This will run the skeletonMapping method, where the parameter corresponds to the file name. This method takes the position information stored in the CSV file, maps each position into the nearest skeleton and writes out the output in a file named "Skeleton.txt."
 
+![alt text](https://github.com/LIZHAONAN/NeuroLab/blob/master/skeleton.jpg)
 
 ## Author
 
